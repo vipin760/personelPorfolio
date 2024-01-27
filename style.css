@@ -307,10 +307,13 @@ section{
 }
 .top{
     position: fixed;
-    bottom: 7.5rem ;
-    right: 2rem;
+    bottom: 4.5rem ;
+    right: 5rem;
     z-index: 100;
     display: none;
+}
+.top img{
+    width: 5rem;
 }
 
 
